@@ -12,11 +12,6 @@ Just type your task, add it, and check it off when you're done. Boom. ✅
 
 ---
 
-## 📸 Screenshot (Imagine This Simplicity)
-[Simple screenshot of the app goes here, or use your imagination]
-
----
-
 ## 🚀 Features
 - Add tasks effortlessly. ✏️
 - View all your tasks in a clean, minimalistic list. 👀
